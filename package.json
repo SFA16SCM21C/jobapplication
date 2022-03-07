@@ -1,6 +1,10 @@
 {
   "name": "jobapplication",
   "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lipis/bootstrap-social.git"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
